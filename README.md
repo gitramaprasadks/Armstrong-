@@ -1,2 +1,0 @@
-# Armstrong-
-Armstrong number
